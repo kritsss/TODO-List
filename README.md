@@ -1,2 +1,1 @@
-# TODO-List
-# https://todo-list-krits.netlify.app/
+### TODO-List
